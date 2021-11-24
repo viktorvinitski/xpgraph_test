@@ -1,0 +1,5 @@
+export const SET_CHECKED_POSTS = 'SET_CHECKED_POSTS'
+export const INIT_POSTS = 'INIT_POSTS'
+export const DELETE_POSTS = 'DELETE_POSTS'
+export const ADD_POST = 'ADD_POST'
+export const DELETE_CHECKED_POSTS = 'DELETE_CHECKED_POSTS'

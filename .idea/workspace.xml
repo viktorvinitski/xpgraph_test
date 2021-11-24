@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="129be0cc-8eca-4628-87a4-b0dae6b9edbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/CreatePostModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Posts/Posts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/ButtonItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useFetchPosts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/constants.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FindedJokesArea/FindedJokesArea.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FindedJokesArea/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Joke/Joke.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Joke/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RandomJoke/RandomJoke.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RandomJoke/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SelectCategory/SelectCategory.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SelectCategory/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchCategories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchJokesByQuery.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchRandomJoke.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/mainReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/mainReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/requests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/requests.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20M7xTxaew2x5yLuf2OxTOuuJyL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="D:\redev_course\compITech test\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\redev_course\compITech test\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="129be0cc-8eca-4628-87a4-b0dae6b9edbc" name="Default Changelist" comment="" />
+      <created>1635842849116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635842849116</updated>
+      <workItem from="1635842859286" duration="22000" />
+      <workItem from="1635842884610" duration="1127000" />
+      <workItem from="1635926431051" duration="693000" />
+      <workItem from="1635932629704" duration="185000" />
+      <workItem from="1636109900562" duration="620000" />
+      <workItem from="1636443082077" duration="454000" />
+      <workItem from="1636964249140" duration="3000" />
+      <workItem from="1636973371115" duration="493000" />
+      <workItem from="1637312337481" duration="2000" />
+      <workItem from="1637744909072" duration="2489000" />
+      <workItem from="1637747457517" duration="18610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="720" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637747783394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="310" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1637747783394" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1635842878793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1635842878793" />
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom" timestamp="1637766239596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1637766239596" />
+    <state width="1899" height="253" key="GridCell.Tab.0.center" timestamp="1637766239596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1637766239596" />
+    <state width="1899" height="253" key="GridCell.Tab.0.left" timestamp="1637766239596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1637766239596" />
+    <state width="1899" height="253" key="GridCell.Tab.0.right" timestamp="1637766239596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1637766239596" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1637754942245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1637754942245" />
+  </component>
+</project>
