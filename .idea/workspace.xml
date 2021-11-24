@@ -11,31 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="129be0cc-8eca-4628-87a4-b0dae6b9edbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Modal/CreatePostModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Posts/Posts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/ButtonItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useFetchPosts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/constants.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FindedJokesArea/FindedJokesArea.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FindedJokesArea/style.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/style.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Joke/Joke.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Joke/style.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RandomJoke/RandomJoke.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RandomJoke/style.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SelectCategory/SelectCategory.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SelectCategory/style.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchCategories.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchJokesByQuery.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchRandomJoke.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/interfaces.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/mainReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/mainReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/requests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/requests.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +41,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="ts.external.directory.path" value="D:\redev_course\compITech test\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\redev_course\xpgraph\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -110,6 +86,7 @@
       <workItem from="1637312337481" duration="2000" />
       <workItem from="1637744909072" duration="2489000" />
       <workItem from="1637747457517" duration="18610000" />
+      <workItem from="1637766435609" duration="299000" />
     </task>
     <servers />
   </component>
